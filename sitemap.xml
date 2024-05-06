@@ -1,23 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
      <url>
-        <loc>https://example.com/</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <loc>https://freeezeme.com/</loc>
     </url>
     <url>
-        <loc>https://example.com/netflix.html</loc>
-        <changefreq>weekly</changefreq>
+        <loc>https://freeezeme.com/free/netflix.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://example.com/amazon.html</loc>
-        <changefreq>weekly</changefreq>
+        <loc>https://freeezeme.com/free/amazon.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://example.com/spotify.html</loc>
-        <changefreq>weekly</changefreq>
+        <loc>https://freeezeme.com/free/spotify.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/roblox.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/fortnite.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/steam.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/adobe.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/minecraft.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/autodesk.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/crunchyroll.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/disney.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/hulu.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/nordvpn.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/expressvpn.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/free/hbo.html</loc>
         <priority>0.8</priority>
     </url>
 </urlset>
