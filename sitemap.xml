@@ -4,63 +4,11 @@
         <loc>https://freeezeme.com/</loc>
     </url>
     <url>
-        <loc>https://freeezeme.com/free/netflix.html</loc>
+        <loc>https://freeezeme.com/serve/pngtojpg.html</loc>
         <priority>0.8</priority>
     </url>
-    <url>
-        <loc>https://freeezeme.com/free/amazon.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/spotify.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/roblox.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/fortnite.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/steam.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/adobe.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/minecraft.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/autodesk.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/crunchyroll.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/disney.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/hulu.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/nordvpn.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/expressvpn.html</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://freeezeme.com/free/hbo.html</loc>
+     <url>
+        <loc>https://freeezeme.com/serve/pngtojpg</loc>
         <priority>0.8</priority>
     </url>
 </urlset>
