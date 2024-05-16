@@ -11,4 +11,20 @@
         <loc>https://freeezeme.com/serve/pngtojpg</loc>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://freeezeme.com/serve/pngtoico.html</loc>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://freeezeme.com/serve/pngtoico</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://freeezeme.com/serve/jpgtopng.html</loc>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://freeezeme.com/serve/jpgtopng</loc>
+        <priority>0.8</priority>
+    </url>
 </urlset>

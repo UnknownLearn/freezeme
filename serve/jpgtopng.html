@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Freeezeme: Effortless JPG/JPEG to PNG Conversion</title>
+    <meta
+      name="description"
+      content="Freeezeme is a free online tool that effortlessly converts PNG images to high-quality JPG format, reducing file size without sacrificing image quality. Perfect for optimizing images for faster website loading times."
+    />
+    <meta
+      name="keywords"
+      content="JPG/JPEG to PNG converter, free online image converter, reduce image size, optimize image for web, compress PNG, JPG conversion, easy image conversion, photographer tools, web developer tools, SEO image optimization"
+    />
+    <script src="../omg.js"></script>
+  </head>
+
+  <body class="min-h-[100vh] bg-green-200 flex flex-col justify-between">
+    <header
+      class="bg-black h-10 flex justify-center items-center text-white font-bold text-lg p-10"
+    >
+      Freeezeme.com
+    </header>
+    <main>
+      <div
+        class="max-w-2xl m-auto justify-center flex flex-col items-center gap-10 my-10 p-10 bg-white"
+      >
+        <h1 class="font-bold text-4xl">
+          Free Online JPG/JPEG to PNG Converter
+        </h1>
+        <p>
+          Optimize your images for faster websites and applications with
+          Freeezeme's effortless JPG/JPEG to PNG conversion. Simply upload your
+          PNG image, and watch it transform into a space-saving JPG format, all
+          while maintaining excellent image quality.
+        </p>
+
+        <input
+          type="file"
+          id="imageInput"
+          accept="image/jpeg"
+          onchange="showImage()"
+        />
+        <br />
+        <img
+          id="previewImage"
+          class="w-[60%] border-solid border 1px object-cover"
+        />
+        <br />
+        <button
+          id="convertButton"
+          class="bg-red-400 p-5 rounded-xl font-bold hover:text-white hover:bg-red-600"
+        >
+          Convert to PNG
+        </button>
+        <br />
+        <a href="#" id="downloadLink" style="display: none"
+          >Download Converted PNG</a
+        >
+
+        <h2>Why Choose Freeezeme for JPG/JPEG to PNG Conversion?</h2>
+        <ul class="list-disc pl-4 text-lg">
+          <li>
+            **Effortless & Fast:** Drag and drop your PNG or use the file
+            browser for a seamless, lightning-fast conversion process.
+          </li>
+          <li>
+            **Quality & Compression:** Freeezeme prioritizes preserving image
+            quality while significantly reducing file size for faster loading
+            times.
+          </li>
+          <li>
+            **Free & Unlimited:** Use Freeezeme for free, as many times as you
+            need, with no limitations.
+          </li>
+          <li>
+            **Simple & User-Friendly:** The intuitive interface makes JPG/JPEG
+            to PNG conversion a breeze for anyone, regardless of technical
+            expertise.
+          </li>
+        </ul>
+
+        <h2>Optimize Your Images with Freeezeme</h2>
+        <p>
+          Freeezeme is the ultimate solution for converting PNG images to JPG
+          format with ease. Our tool is designed to streamline the conversion
+          process, helping you achieve faster loading times for your websites
+          and applications.
+        </p>
+
+        <h2>Efficient Image Compression</h2>
+        <p>
+          With Freeezeme, you can reduce the file size of your images without
+          compromising on quality. Our advanced compression algorithms ensure
+          that your JPG images maintain excellent clarity and detail while
+          occupying less space on your servers and devices.
+        </p>
+
+        <h2>Seamless Conversion Process</h2>
+        <p>
+          Whether you're a professional photographer, web developer, or casual
+          user, Freeezeme offers a simple and intuitive conversion process. Just
+          upload your PNG image, click the convert button, and download the
+          optimized JPG file within seconds.
+        </p>
+      </div>
+    </main>
+    <footer class="bg-gray-800 text-white text-center py-4">
+      © 2024 Freeezeme.com | All Rights Reserved.
+      <a href="#" style="color: #ccc; text-decoration: underline"
+        >Learn more about image optimization</a
+      >
+    </footer>
+    <script src="js/jpgtopng.js"></script>
+  </body>
+</html>
